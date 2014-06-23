@@ -1,8 +1,6 @@
-Getting and Cleaning Data
-=========================
+#Getting and Cleaning Data
 
-Coursera Project
-----------------
+##Coursera Project
 
 <ol>
 <li>Merges the training and the test sets to create one data set.</li>
@@ -12,8 +10,7 @@ Coursera Project
 <li>Creates a second, independent tidy data set with the average of each variable for each activity and each subject.</li>
 </ol> 
 
-Step-by-Step
-------------
+##Step-by-Step
 
 <ol>
 <li>Download the data source in <blockquote>https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip</blockquote></li>
