@@ -17,7 +17,7 @@ Step-by-Step
 
 <ol>
 <li>Download the data source in <blockquote>https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip</blockquote></li>
-<li>Put it in your local drive. You'll have a <blockquote>UCI HAR Dataset</blockquote> folder.</li>
+<li>Put it in your local drive. You'll have a ("UCI HAR Dataset") folder.</li>
 <li>Put <blockquote>run_analysis.R</blockquote> in the parent folder of <blockquote>UCI HAR Dataset</blockquote></li>
 <li>Open <blockquote>run_analysis.R</blockquote> and change the parameter in the <blockquote>setwd()</blockquote> function.</li>
 <li>This parameter must be your working directory - aka the same directory where the <blockquote>run_analysis.R</blockquote> script and the <blockquote>UCI HAR Dataset</blockquote> folder are placed in.</li>
