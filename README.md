@@ -12,11 +12,9 @@
 
 ##Step-by-Step
 
-<ol>
-<li>Download the data source in <blockquote>https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip</blockquote></li>
-<li>Put it in your local drive. You'll have a [UCI HAR Dataset] folder.</li>
-<li>Put ```run_analysis.R``` in the parent folder of ```UCI HAR Dataset```</li>
-<li>Open ```run_analysis.R``` and change the parameter in the ```setwd()``` function.</li>
-<li>This parameter must be your working directory - aka the same directory where the ```run_analysis.R``` script and the ```UCI HAR Dataset``` folder are placed in.</li></ol>
-* Run source ```run_analysis.R```, then it will generate a new file ```tiny.txt``` in your working directory.</li>
-
+* Download the data source in <blockquote>https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip</blockquote>
+* Put it in your local drive. You'll have a [UCI HAR Dataset] folder.
+* Put ```run_analysis.R``` in the parent folder of ```UCI HAR Dataset```.
+* Open ```run_analysis.R``` and change the parameter in the ```setwd()``` function.
+* This parameter must be your working directory - aka the same directory where the ```run_analysis.R``` script and the ```UCI HAR Dataset``` folder are placed in.
+* Run source ```run_analysis.R```, then it will generate a new file ```tiny.txt``` in your working directory.
